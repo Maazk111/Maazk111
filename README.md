@@ -4,7 +4,7 @@
 ### 🚀 DevOps Engineer | Cloud & Automation Enthusiast | Full Stack Developer
 *Building scalable, automated cloud systems through DevOps excellence.*
 
-I’m a **DevOps Engineer** with practical experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
+I’m a **DevOps Engineer** with practical experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, Docker and Kubernetes.**  
 I enjoy working with **cloud infrastructure, infrastructure as code, and Kubernetes** to build reliable and scalable systems.
 
 Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL and MongoDB**,  
