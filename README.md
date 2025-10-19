@@ -7,7 +7,7 @@
 I’m a **DevOps Engineer** with practical experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
 I enjoy working with **cloud infrastructure, infrastructure as code, and Kubernetes** to build reliable and scalable systems.
 
-Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, and MySQL**,  
+Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL and MongoDB**,  
 which helps me understand applications from both the **development and deployment** sides.
 
 I’m passionate about **learning, improving automation workflows**, and **creating efficient, well-structured environments** for teams and projects.
