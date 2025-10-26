@@ -4,7 +4,7 @@
 ### 🚀 DevOps Engineer | Cloud & Automation Enthusiast | Full Stack Developer
 *Building scalable, automated cloud systems through DevOps excellence.*
 
-I’m a **DevOps Engineer** with practical experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, Docker and Kubernetes.**  
+I’m a **DevOps Engineer** with practical experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
 I enjoy working with **cloud infrastructure, infrastructure as code, and Kubernetes** to build reliable and scalable systems.
 
 Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL and MongoDB**,  
@@ -31,17 +31,17 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 
 ## ⚙️ Tech Stack & Tools
 
-| **Category** | **Tools & Technologies** |
-|---------------|---------------------------|
+| **Category** | **Tools & Technologies**                                                                                                                                  |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ☁️ **Cloud Platforms** | AWS (EC2, S3, RDS, Aurora, ECR, ECS, EKS, Elastic Beanstalk, Route 53, CloudFront, IAM, Auto Scaling, Lambda, ACM, VPC, CloudWatch, Systems Manager (SSM)) |
-| 🧩 **Infrastructure as Code (IaC)** | Terraform, Ansible, Vagrant |
-| ⚙️ **CI/CD & Automation** | Jenkins, GitHub Actions, GitLab CI/CD, Maven, SonarQube, Nexus |
-| 🐳 **Containers & Orchestration** | Docker, Docker Compose, Kubernetes (Minikube, kubeadm, kOps, Helm) |
-| 🔐 **Security & DevSecOps** | Trivy, Role-Based Access Control, ACM HTTPS |
-| 💻 **Full Stack Development** | Node.js, Express.js, React, JavaScript, HTML, CSS, Prisma, MySQL, MongoDB |
-| 🧰 **Scripting & OS** | Bash, Shell Scripting, Python, Linux (Ubuntu, RHEL, CentOS) |
-| 🔗 **Version Control & Collaboration** | Git, GitHub, GitLab, Bitbucket, Slack, Nexus |
-| 🧠 **Programming Languages** | C, C++, C#, Java |
+| 🧩 **Infrastructure as Code (IaC)** | Terraform, Ansible, Vagrant                                                                                                                               |
+| ⚙️ **CI/CD & Automation** | Jenkins, GitHub Actions, GitLab CI/CD, Maven, SonarQube, Nexus                                                                                            |
+| 🐳 **Containers & Orchestration** | Docker, Containerd, Docker Compose, Kubernetes (Minikube, kubeadm, kOps, Helm)                                                                            |
+| 🔐 **Security & DevSecOps** | Trivy, Role-Based Access Control, ACM HTTPS                                                                                                               |
+| 💻 **Full Stack Development** | Node.js, Express.js, React, JavaScript, HTML, CSS, Prisma, MySQL, MongoDB                                                                                 |
+| 🧰 **Scripting & OS** | Bash, Shell Scripting, Python, Linux (Ubuntu, RHEL, CentOS)                                                                                               |
+| 🔗 **Version Control & Collaboration** | Git, GitHub, GitLab, Bitbucket, Slack, Nexus                                                                                                              |
+| 🧠 **Programming Languages** | C, C++, C#, Java                                                                                                                                          |
 
 ---
 
