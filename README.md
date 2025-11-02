@@ -1,14 +1,16 @@
 
 # 👋 Hi, I'm **Muhammad Maaz Khan**
 
-### 🚀 DevOps Engineer | Cloud & Automation Enthusiast | Full Stack Developer
+### 🚀 DevOps Engineer | Cloud & Automation Enthusiast | Full Stack Developer 
 *Building scalable, automated cloud systems through DevOps excellence.*
 
-I’m a **DevOps Engineer** with practical experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
-I enjoy working with **cloud infrastructure, infrastructure as code, and Kubernetes** to build reliable and scalable systems.
+I’m a **DevOps Intern at Unikrew Solutions (Private) Limited**, gaining hands-on experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
+I enjoy working with **cloud infrastructure, Infrastructure-as-Code**, and **Kubernetes** to build reliable and scalable systems.
 
-Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL and MongoDB**,  
+Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL, and MongoDB**,  
 which helps me understand applications from both the **development and deployment** sides.
+
+I’m currently in my **7th semester at DHA Suffa University**, where I’m learning **Agentic AI frameworks** such as **LangChain, LangGraph, and CrewAI** as part of my **Final Year Project (AutoTestGen+).**
 
 I’m passionate about **learning, improving automation workflows**, and **creating efficient, well-structured environments** for teams and projects.
 
@@ -19,13 +21,12 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 ☁️ Migrated on-prem infrastructure to **AWS** using EC2, RDS, S3, Route 53, ELB, Auto Scaling, CloudFront, and ACM.  
 ⚙️ Built **CI/CD pipelines** with Jenkins, GitLab CI/CD, and GitHub Actions integrating Maven, SonarQube, and Nexus.  
 🧩 Automated infrastructure provisioning using **Terraform, Ansible, and Vagrant**, applying Infrastructure-as-Code principles.  
-🌐 Built a **multi-VM WordPress** environment using Vagrant and Bash provisioning.  
-🐳 Deployed and managed **Docker** containers, multistage builds, and ECS clusters with Auto Scaling.  
-☸️ Configured and maintained **Kubernetes** clusters, pods, deployments, ingress controllers, and namespaces.  
-🔐 Secured AWS environments with **IAM**, security groups, HTTPS via **ACM**, and DevSecOps tools (**Trivy**, **Vault**).  
+🐳 Deployed and managed **Docker** containers, multistage builds, and ECS clusters with Auto Scaling and monitoring via CloudWatch.  
+☸️ Configured and maintained **Kubernetes** clusters with pods, deployments, ingress controllers, and namespaces.  
+🔐 Secured AWS environments with **IAM**, security groups, HTTPS via **ACM**, and **DevSecOps** tools (Trivy, SonarQube).  
 🧠 Designed and optimized **VPCs**, subnets, and peering for secure, scalable networking.  
-🧰 Automated configuration and environment setup using **Ansible playbooks** and **Bash scripts**.  
-💻 Developed **full-stack apps** using Node.js, Express.js, React, MySQL, and Prisma with Stripe and Twilio integrations.
+🧰 Automated configurations using **Ansible playbooks** and **Bash scripts** for server provisioning and patching.  
+💻 Developed **full-stack apps** using Node.js, Express.js, React, MySQL, and Prisma with **Stripe** and **Twilio** integrations.  
 
 ---
 
@@ -64,5 +65,5 @@ I’m always open to connecting with professionals, teams, and organizations who
 Whether it’s collaboration, mentorship, or exciting project opportunities — feel free to reach out!
 
 📧 **Email:** [maazkhan97111@gmail.com](mailto:maazkhan97111@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/maaz-khan-bb65872b9](https://www.linkedin.com/in/maaz-khan-bb65872b9/)  
+💼 **LinkedIn:** [linkedin.com/in/maaz-khan-bb65872b9](https://www.linkedin.com/in/muhammad-maaz-khan-bb65872b9/)  
 🐙 **GitHub:** [github.com/Maazk111](https://github.com/Maazk111)
