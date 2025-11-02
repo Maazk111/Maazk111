@@ -7,8 +7,7 @@
 I’m a **DevOps Intern at Unikrew Solutions (Private) Limited**, gaining hands-on experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
 I enjoy working with **cloud infrastructure, Infrastructure-as-Code**, and **Kubernetes** to build reliable and scalable systems.
 
-Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL, and MongoDB**,  
-which helps me understand applications from both the **development and deployment** sides.
+Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL, and MongoDB**, which helps me understand applications from both the **development and deployment** sides.
 
 I’m currently in my **7th semester at DHA Suffa University**, where I’m learning **Agentic AI frameworks** such as **LangChain, LangGraph, and CrewAI** as part of my **Final Year Project (AutoTestGen+).**
 
