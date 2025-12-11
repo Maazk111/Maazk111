@@ -56,6 +56,22 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 | 👐 **OpenHands – Fundraising Platform** | Full-stack donation platform with secure payments, SMS notifications, and admin dashboards — combining DevOps and backend development skills. | Node.js, Express, Prisma, MySQL, Stripe, Twilio, Nodemailer, Bootstrap | [🔗 GitHub](https://github.com/Maazk111/OpenHands) |
 
 ---
+---
+
+## 🧑‍💻 Experience
+
+### DevOps Intern — UniKrew Solutions (Private) Limited  
+📆 October 2025 – November 2025  
+📍 Karachi, Pakistan  
+
+- Gained strong hands-on experience in **Kubernetes (CLI & Rancher UI)** — resource management, application deployments, pod troubleshooting, and cluster health monitoring.  
+- Assisted in **infrastructure readiness**, reviewing system metrics, and ensuring stable environments for production-like workloads.  
+- Collaborated with the DevOps team to **resolve deployment issues**, automate **CI/CD workflows**, and improve cloud & on-prem infrastructure reliability.  
+- Practical exposure to **air-gapped environments**, understanding how private registries, offline mirrors, and secure internal networks operate.  
+- Performed real-time **UAT troubleshooting** — diagnosing TLS issues, DNS failures, image-pull errors, pod crashes, and service downtime.  
+- Improved communication and pressure handling during **critical production incidents**.  
+- Participated in **daily Scrum meetings**, improving cross-team communication, Agile discipline, and progress tracking.
+
 
 
 ## 🤝 Let’s Connect
