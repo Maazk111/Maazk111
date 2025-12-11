@@ -56,7 +56,6 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 | 👐 **OpenHands – Fundraising Platform** | Full-stack donation platform with secure payments, SMS notifications, and admin dashboards — combining DevOps and backend development skills. | Node.js, Express, Prisma, MySQL, Stripe, Twilio, Nodemailer, Bootstrap | [🔗 GitHub](https://github.com/Maazk111/OpenHands) |
 
 ---
----
 
 ## 🧑‍💻 Experience
 
@@ -72,6 +71,7 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 - Improved communication and pressure handling during **critical production incidents**.  
 - Participated in **daily Scrum meetings**, improving cross-team communication, Agile discipline, and progress tracking.
 
+---
 
 
 ## 🤝 Let’s Connect
