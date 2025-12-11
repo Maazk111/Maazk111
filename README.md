@@ -73,7 +73,6 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 
 ---
 
-
 ## 🤝 Let’s Connect
 
 I’m always open to connecting with professionals, teams, and organizations who share a passion for **DevOps, Cloud Engineering, and Automation**.  
