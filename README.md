@@ -4,7 +4,7 @@
 ### 🚀 DevOps Engineer | Cloud & Automation Enthusiast | Full Stack Developer 
 *Building scalable, automated cloud systems through DevOps excellence.*
 
-I’m a **DevOps Intern at Unikrew Solutions (Private) Limited**, gaining hands-on experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
+I’m a **DevOps Intern at Nanosoft Technologies**, gaining hands-on experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
 I enjoy working with **cloud infrastructure, Infrastructure-as-Code**, and **Kubernetes** to build reliable and scalable systems.
 
 Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL, and MongoDB**, which helps me understand applications from both the **development and deployment** sides.
