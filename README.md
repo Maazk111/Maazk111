@@ -71,6 +71,7 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 - Improved communication and pressure handling during **critical production incidents**.  
 - Participated in **daily Scrum meetings**, improving cross-team communication, Agile discipline, and progress tracking.
 
+
 ---
 
 ## 🤝 Let’s Connect
