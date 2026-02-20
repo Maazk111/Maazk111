@@ -26,9 +26,8 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 🧠 Designed and optimized **VPCs**, subnets, and peering for secure, scalable networking.  
 🧰 Automated configurations using **Ansible playbooks** and **Bash scripts** for server provisioning and patching.  
 💻 Developed **full-stack apps** using Node.js, Express.js, React, MySQL, and Prisma with **Stripe** and **Twilio** integrations.
-📊 Designed and deployed a production-style **Monitoring & Observability stack** using Prometheus, Grafana, Loki, and Slack alerting.
-📈 Applied advanced **PromQL queries and dashboard visualizations** to monitor infrastructure health, application metrics, and real-time system performance.
-
+📊 Designed and deployed a production-grade **Monitoring & Observability stack** using Prometheus, Grafana, Loki, and Slack alerting.
+📈 Applied advanced **PromQL queries and interactive dashboard visualizations** to monitor infrastructure health, application metrics, and real-time system performance.
 ---
 
 ## ⚙️ Tech Stack & Tools
@@ -60,6 +59,7 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 | 👐 **OpenHands – Fundraising Platform**                  | Full-stack donation platform with secure payments, SMS notifications, and admin dashboards — combining DevOps and backend development skills.                                                                | Node.js, Express, Prisma, MySQL, Stripe, Twilio, Nodemailer, Bootstrap | [🔗 GitHub](https://github.com/Maazk111/OpenHands)                            |
 
 ---
+## 🧑‍💻 Experience
 
 ### DevOps Intern — Nanosoft Technologies
 
@@ -74,7 +74,7 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 - Containerized applications using production-ready **Dockerfiles and Docker Compose**, implementing multi-container architectures, custom networks, and persistent volumes.
 - Applied advanced **Docker practices**, including container security (read-only filesystems, resource limits), logging, monitoring, backup/restore strategies, and Docker Swarm orchestration.
 
-## 🧑‍💻 Experience
+
 
 ### DevOps Intern — UniKrew Solutions (Private) Limited
 
