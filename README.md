@@ -17,15 +17,24 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 
 ## 🧠 Key Skills & Expertise
 
-☁️ Migrated on-prem infrastructure to **AWS** using EC2, RDS, S3, Route 53, ELB, Auto Scaling, CloudFront, and ACM.  
-⚙️ Built **CI/CD pipelines** with Jenkins, GitLab CI/CD, and GitHub Actions integrating Maven, SonarQube, and Nexus.  
-🧩 Automated infrastructure provisioning using **Terraform, Ansible, and Vagrant**, applying Infrastructure-as-Code principles.  
-🐳 Deployed and managed **Docker** containers, multistage builds, and ECS clusters with Auto Scaling and monitoring via CloudWatch.  
-☸️ Configured and maintained **Kubernetes** clusters with pods, deployments, ingress controllers, and namespaces.  
-🔐 Secured AWS environments with **IAM**, security groups, HTTPS via **ACM**, and **DevSecOps** tools (Trivy, SonarQube).  
-🧠 Designed and optimized **VPCs**, subnets, and peering for secure, scalable networking.  
-🧰 Automated configurations using **Ansible playbooks** and **Bash scripts** for server provisioning and patching.  
+☁️ Migrated on-prem infrastructure to **AWS** using EC2, RDS, S3, Route 53, ELB, Auto Scaling, CloudFront, and ACM.
+
+⚙️ Built **CI/CD pipelines** with Jenkins, GitLab CI/CD, and GitHub Actions integrating Maven, SonarQube, and Nexus.
+
+🧩 Automated infrastructure provisioning using **Terraform, Ansible, and Vagrant**, applying Infrastructure-as-Code principles.
+
+🐳 Deployed and managed **Docker** containers, multistage builds, and ECS clusters with Auto Scaling and monitoring via CloudWatch.
+
+☸️ Configured and maintained **Kubernetes** clusters with pods, deployments, ingress controllers, and namespaces.
+
+🔐 Secured AWS environments with **IAM**, security groups, HTTPS via **ACM**, and **DevSecOps** tools (Trivy, SonarQube).
+
+🧠 Designed and optimized **VPCs**, subnets, and peering for secure, scalable networking.
+
+🧰 Automated configurations using **Ansible playbooks** and **Bash scripts** for server provisioning and patching.
+
 💻 Developed **full-stack apps** using Node.js, Express.js, React, MySQL, and Prisma with **Stripe** and **Twilio** integrations.
+
 📊 Designed and deployed a production-style **Monitoring & Observability stack** using Prometheus, Grafana, Loki, and Slack alerting.
 
 📈 Applied advanced **PromQL queries and dashboard visualizations** to monitor infrastructure health, application metrics, and real-time system performance.
