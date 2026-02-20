@@ -26,6 +26,7 @@ I’m passionate about **learning, improving automation workflows**, and **creat
 🧠 Designed and optimized **VPCs**, subnets, and peering for secure, scalable networking.  
 🧰 Automated configurations using **Ansible playbooks** and **Bash scripts** for server provisioning and patching.  
 💻 Developed **full-stack apps** using Node.js, Express.js, React, MySQL, and Prisma with **Stripe** and **Twilio** integrations.
+
 📊 Designed and deployed a production-style **Monitoring & Observability stack** using Prometheus, Grafana, Loki, and Slack alerting.
 
 📈 Applied advanced **PromQL queries and dashboard visualizations** to monitor infrastructure health, application metrics, and real-time system performance.
