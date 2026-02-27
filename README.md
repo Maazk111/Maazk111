@@ -9,7 +9,7 @@ I enjoy working with **cloud infrastructure, Infrastructure-as-Code**, and **Kub
 
 Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL, and MongoDB**, which helps me understand applications from both the **development and deployment** sides.
 
-I’m currently in my **7th semester at DHA Suffa University**, where I’m learning **Agentic AI frameworks** such as **LangChain, LangGraph, and CrewAI** as part of my **Final Year Project (AutoTestGen+).**
+I’m currently in my **8th semester at DHA Suffa University**, where I’m learning **Agentic AI frameworks** such as **LangChain, LangGraph, and CrewAI** as part of my **Final Year Project (AutoTestGen+).**
 
 I’m passionate about **learning, improving automation workflows**, and **creating efficient, well-structured environments** for teams and projects.
 
