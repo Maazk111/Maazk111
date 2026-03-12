@@ -108,6 +108,7 @@ Whether it’s collaboration, mentorship, or exciting project opportunities — 
 
 
 
+
 📧 **Email:** [maazkhan97111@gmail.com](mailto:maazkhan97111@gmail.com)  
 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muhammad-maaz-khan-bb65872b9/)  
 🐙 **GitHub:** [GitHub](https://github.com/Maazk111)
