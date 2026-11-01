@@ -82,8 +82,8 @@ _October 2025 – November 2025 | Karachi, Pakistan_
 
 ## 🏅 Certifications
 
-- [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/af863e55-75a4-4612-9175-92069042255b/public_url)
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/b60aaf12-f200-4dcf-a8e4-2405e1e1d309/public_url)
+- [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/b60aaf12-f200-4dcf-a8e4-2405e1e1d309/public_url)
+- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/af863e55-75a4-4612-9175-92069042255b/public_url)
 - [AWS Certified AI Practitioner (AIF-C01)](https://www.credly.com/badges/67c9bedd-4a5d-4ed0-8a77-9c98d0c0aef9/public_url)
 
 ---
