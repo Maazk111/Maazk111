@@ -1,117 +1,97 @@
-# 👋 Hi, I'm **Muhammad Maaz Khan**
+# 👋 Hi, I'm Muhammad Maaz Khan
 
-### 🚀 DevOps Engineer | Cloud & Automation Enthusiast | Full Stack Developer
+### 🚀 Site Reliability Engineer | DevOps & Cloud Engineering | AWS Certified
 
-_Building scalable, automated cloud systems through DevOps excellence._
+I'm an **Associate Site Reliability Engineer at iVolve Technologies**, working across cloud infrastructure, Linux, networking, monitoring, incident troubleshooting, and backup/disaster recovery. I enjoy using **AWS, Terraform, Ansible, Jenkins, Docker, and Kubernetes** to make infrastructure and application delivery more reliable and repeatable.
 
-I’m a **DevOps Engineer**, gaining hands-on experience in **AWS, CI/CD, Terraform, Jenkins, Ansible, and Docker.**  
-I enjoy working with **cloud infrastructure, Infrastructure-as-Code**, and **Kubernetes** to build reliable and scalable systems.
+I hold a **BS in Software Engineering from DHA Suffa University (CGPA: 3.81/4.00)** and three AWS certifications. My background in **full-stack development** and my final-year project, **AutoTestGen+**, also help me approach infrastructure challenges with an application-development perspective.
 
-Alongside DevOps, I also have experience in **Full Stack Development** using **Node.js, Express.js, React, JavaScript, MySQL, and MongoDB**, which helps me understand applications from both the **development and deployment** sides.
+---
 
-I’m currently in my **8th semester at DHA Suffa University**, where I’m learning **Agentic AI frameworks** such as **LangChain, LangGraph, and CrewAI** as part of my **Final Year Project (AutoTestGen+).**
+## 💼 Professional Experience
 
-I’m passionate about **learning, improving automation workflows**, and **creating efficient, well-structured environments** for teams and projects.
+**Associate Site Reliability Engineer — iVolve Technologies**  
+_July 2026 – Present | Karachi, Pakistan_
+
+- Provision and support **QCloud infrastructure**: virtual machines, networking, routing, NAT, firewalls, and pfSense.
+- Maintain **Zabbix dashboards** and investigate infrastructure health and availability issues.
+- Support **Veeam backup and disaster recovery** workflows, including job validation and object-storage-based recovery scenarios.
+- Handle production incidents and service requests through **Jira**, including troubleshooting, customer coordination, and RCA follow-up.
+
+**DevOps Intern — Nanosoft Technologies**  
+_December 2025 – January 2026 | Karachi, Pakistan_
+
+- Automated Linux administration and infrastructure tasks with **Bash**; worked with networking, storage, and firewall configuration.
+- Built **Jenkins CI/CD** workflows and containerized applications with **Docker** and **Docker Compose**.
+- Practiced **Prometheus/Grafana monitoring**, MongoDB, Redis, RabbitMQ, backups, and Docker Swarm.
+
+**DevOps Intern — UniKrew Solutions (Private) Limited**  
+_October 2025 – November 2025 | Karachi, Pakistan_
+
+- Managed workloads in **on-premises and air-gapped Kubernetes** environments using `kubectl`.
+- Deployed a multi-tier **vProfile** application with Services, Secrets, persistent storage, and NGINX Ingress.
+- Troubleshot **UAT deployments**, including pod failures, image-pull errors, TLS/DNS issues, and service availability.
 
 ---
 
 ## 🧠 Key Skills & Expertise
 
-☁️ Migrated on-prem infrastructure to **AWS** using EC2, RDS, S3, Route 53, ELB, Auto Scaling, CloudFront, and ACM.
-
-⚙️ Built **CI/CD pipelines** with Jenkins, GitLab CI/CD, and GitHub Actions integrating Maven, SonarQube, and Nexus.
-
-🧩 Automated infrastructure provisioning using **Terraform, Ansible, and Vagrant**, applying Infrastructure-as-Code principles.
-
-🐳 Deployed and managed **Docker** containers, multistage builds, and ECS clusters with Auto Scaling and monitoring via CloudWatch.
-
-☸️ Configured and maintained **Kubernetes** clusters with pods, deployments, ingress controllers, and namespaces.
-
-🔐 Secured AWS environments with **IAM**, security groups, HTTPS via **ACM**, and **DevSecOps** tools (Trivy, SonarQube).
-
-🧠 Designed and optimized **VPCs**, subnets, and peering for secure, scalable networking.
-
-🧰 Automated configurations using **Ansible playbooks** and **Bash scripts** for server provisioning and patching.
-
-💻 Developed **full-stack apps** using Node.js, Express.js, React, MySQL, and Prisma with **Stripe** and **Twilio** integrations.
-
-📊 Designed and deployed a production-style **Monitoring & Observability stack** using Prometheus, Grafana, Loki, and Slack alerting.
-
-📈 Applied advanced **PromQL queries and dashboard visualizations** to monitor infrastructure health, application metrics, and real-time system performance.
+- ☁️ **Cloud & Networking:** AWS infrastructure, VPC design, routing, security groups, load balancing, and migration labs.
+- ⚙️ **CI/CD & Automation:** Jenkins, GitLab CI/CD, GitHub Actions, Maven, artifact/image workflows, and security checks.
+- 🧩 **Infrastructure as Code:** Terraform provisioning, Ansible configuration management, and Bash automation.
+- ☸️ **Containers & Kubernetes:** Docker, Compose, cluster/workload deployment, ingress, storage, and troubleshooting.
+- 🔐 **Security & Reliability:** IAM, TLS, Trivy, incident investigation, backup validation, and disaster recovery.
+- 📊 **Observability:** Zabbix, Prometheus, Grafana, Loki, PromQL, dashboards, and alerting.
 
 ---
 
 ## ⚙️ Tech Stack & Tools
 
-| **Category**                           | **Tools & Technologies**                                                                                                                                   |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ☁️ **Cloud Platforms**                 | AWS (EC2, S3, RDS, Aurora, ECR, ECS, EKS, Elastic Beanstalk, Route 53, CloudFront, IAM, Auto Scaling, Lambda, ACM, VPC, CloudWatch, Systems Manager (SSM)) |
-| 🧩 **Infrastructure as Code (IaC)**    | Terraform, Ansible, Vagrant                                                                                                                                |
-| ⚙️ **CI/CD & Automation**              | Jenkins, GitHub Actions, GitLab CI/CD, Maven, SonarQube, Nexus                                                                                             |
-| 🐳 **Containers & Orchestration**      | Docker, Containerd, Docker Compose, Kubernetes (Minikube, kubeadm, kOps, Helm), Docker Swarm                                                               |
-| 📊 **Monitoring & Observability**      | Prometheus, Grafana, Loki, Grafana Alloy, Node Exporter, PromQL, Slack Webhooks                                                                            |
-| 🔐 **Security & DevSecOps**            | Trivy, Role-Based Access Control (RBAC), ACM HTTPS                                                                                                         |
-| 💻 **Full Stack Development**          | Node.js, Express.js, React, JavaScript, HTML, CSS, Prisma, MySQL, MongoDB                                                                                  |
-| 🧰 **Scripting & OS**                  | Bash, Shell Scripting, Python, Linux (Ubuntu, RHEL, CentOS)                                                                                                |
-| 🔗 **Version Control & Collaboration** | Git, GitHub, GitLab, Bitbucket, Slack, Nexus                                                                                                               |
-| 🧠 **Programming Languages**           | C, C++, C#, Java                                                                                                                                           |
+| Category                          | Tools & Technologies                                                                                                   |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| ☁️ **Cloud & Infrastructure**     | AWS (EC2, VPC, S3, RDS, ECR, ECS, EKS, Elastic Beanstalk, Route 53, CloudFront, IAM, CloudWatch, SSM), QCloud, pfSense |
+| 🧩 **IaC & Automation**           | Terraform, Ansible, Vagrant, Bash                                                                                      |
+| ⚙️ **CI/CD & Build**              | Jenkins, GitLab CI/CD, GitHub Actions, Maven, SonarQube, Nexus                                                         |
+| ☸️ **Containers & Orchestration** | Docker, Docker Compose, containerd, Kubernetes, kubeadm, kOps, Helm, Rancher, Docker Swarm                             |
+| 📊 **Monitoring & Operations**    | Zabbix, Prometheus, Grafana, Loki, Grafana Alloy, Node Exporter, PromQL, Jira, Veeam                                   |
+| 🔐 **Security & Networking**      | Trivy, IAM, RBAC, TLS/ACM, VPN, DNS, firewalls                                                                         |
+| 💻 **Development & Data**         | JavaScript, Python, Node.js, Express.js, React, MySQL, MongoDB, Redis, RabbitMQ, Prisma                                |
+| 🔗 **Version Control**            | Git, GitHub, GitLab, Bitbucket                                                                                         |
 
 ---
 
-## 💻 Projects & Explorations
+## 🚀 Featured Projects
 
-| **Project**                                              | **Description**                                                                                                                                                                                              | **Tech Stack / Focus**                                                 | **Repository**                                                                |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 📊 **Titan Monitoring & Observability Stack**            | Built a production-style monitoring system with Prometheus, Grafana, Loki, and Slack alerting — including automated deployment, PromQL analysis, dashboards, load simulation, and real-time incident alerts. | Prometheus, Grafana, Loki, Grafana Alloy, PromQL, Slack, AWS EC2, Bash | [🔗 GitHub](https://github.com/Maazk111/titan-monitoring-observability-stack) |
-| ☸️ **KubeVProApp – vProfile on Kubernetes**              | End-to-end Kubernetes deployment of a multi-tier Java app (vProfile) using kOps on AWS with NGINX Ingress, ALB, and Route 53 DNS integration.                                                                | Kubernetes, kOps, AWS EC2/EBS, Ingress, NGINX, Docker, Route53         | [🔗 GitHub](https://github.com/Maazk111/kube-vpro-app)                        |
-| ⚙️ **Jenkins CI/CD Pipelines – Artifact & Docker Based** | Designed two pipelines: one managing Maven artifacts with Nexus & Slack, and another container-based CI/CD deploying Docker images to AWS ECS.                                                               | Jenkins, Maven, SonarQube, Nexus, Docker, AWS ECR/ECS                  | [🔗 GitHub](https://github.com/Maazk111/jenkins-ci-cd-pipelines)              |
-| 🐳 **Docker & Containerization – vProfile & eMart**      | Demonstrated both monolithic and microservices architecture containerization using Docker Compose and Vagrant with Nginx and MySQL.                                                                          | Docker, Docker Compose, Nginx, MySQL, RabbitMQ, Vagrant                | [🔗 GitHub](https://github.com/Maazk111/docker-vprofile-emart)                |
-| ☁️ **Terraform AWS Infrastructure Labs**                 | Automated AWS infrastructure provisioning with Terraform, including VPCs, EC2s, and EKS clusters using modular and reusable IaC design.                                                                      | Terraform, AWS EC2/VPC/EKS, S3 Remote Backend, IAM, Bash               | [🔗 GitHub](https://github.com/Maazk111/terraform-aws-infrastructure-labs)    |
-| 👐 **OpenHands – Fundraising Platform**                  | Full-stack donation platform with secure payments, SMS notifications, and admin dashboards — combining DevOps and backend development skills.                                                                | Node.js, Express, Prisma, MySQL, Stripe, Twilio, Nodemailer, Bootstrap | [🔗 GitHub](https://github.com/Maazk111/OpenHands)                            |
-
----
-
-## 🧑‍💻 Experience
-
-### DevOps Intern — Nanosoft Technologies
-
-📅 December 2025 – January 2026  
-📍 Karachi, Pakistan
-
-- Completed foundational **Linux system administration**, including process management, file permissions, networking configuration, firewall rules, storage mounting, and Bash scripting automation.
-- Provisioned and managed virtualized environments using **Vagrant**, automating VM setup and infrastructure configuration.
-- Deployed and configured full **LAMP stack environments (Linux, Apache, MySQL, PHP)** including WordPress and virtual host configurations.
-- Installed and managed backend infrastructure services including **MongoDB, Redis, and RabbitMQ**, ensuring service availability and proper configuration.
-- Designed and implemented **Jenkins-based CI/CD pipelines** across Linux and Windows nodes to automate build, stop, redeploy, and restart workflows.
-- Containerized applications using production-ready **Dockerfiles and Docker Compose**, implementing multi-container architectures, custom networks, and persistent volumes.
-- Applied advanced **Docker practices**, including container security (read-only filesystems, resource limits), logging, monitoring, backup/restore strategies, and Docker Swarm orchestration.
-
-### DevOps Intern — UniKrew Solutions (Private) Limited
-
-📆 October 2025 – November 2025  
-📍 Karachi, Pakistan
-
-- Gained strong hands-on experience in **Kubernetes (CLI & Rancher UI)** — resource management, application deployments, pod troubleshooting, and cluster health monitoring.
-- Assisted in **infrastructure readiness**, reviewing system metrics, and ensuring stable environments for production-like workloads.
-- Collaborated with the DevOps team to **resolve deployment issues**, automate **CI/CD workflows**, and improve cloud & on-prem infrastructure reliability.
-- Practical exposure to **air-gapped environments**, understanding how private registries, offline mirrors, and secure internal networks operate.
-- Performed real-time **UAT troubleshooting** — diagnosing TLS issues, DNS failures, image-pull errors, pod crashes, and service downtime.
-- Improved communication and pressure handling during **critical production incidents**.
-- Participated in **daily Scrum meetings**, improving cross-team communication, Agile discipline, and progress tracking.
+| Project                          | What I Built / Explored                                                                                               | Repository                                                                       |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ☸️ **KubeVProApp**               | Deployed a multi-tier Java application on AWS Kubernetes with kOps, persistent EBS storage, ingress, and DNS routing. | [View project](https://github.com/Maazk111/kube-vpro-app)                        |
+| ⚙️ **Jenkins CI/CD Pipelines**   | Built artifact-based and container-based pipelines with Maven, SonarQube, Nexus, ECR, and ECS.                        | [View project](https://github.com/Maazk111/jenkins-ci-cd-pipelines)              |
+| 🧩 **Terraform AWS Labs**        | Automated AWS VPC, EC2, and EKS infrastructure with Terraform modules and S3 remote state.                            | [View project](https://github.com/Maazk111/terraform-aws-infrastructure-labs)    |
+| 📊 **Titan Observability Stack** | Built an AWS-hosted metrics/logging lab with Prometheus, Grafana, Loki, PromQL, and Slack alerting.                   | [View project](https://github.com/Maazk111/titan-monitoring-observability-stack) |
+| 🐳 **Docker: vProfile & eMart**  | Containerized monolithic and microservices applications using Docker Compose, NGINX, and databases.                   | [View project](https://github.com/Maazk111/docker-vprofile-emart)                |
+| 💻 **OpenHands**                 | Developed a fundraising platform with Node.js, Express, Prisma/MySQL, Stripe, and Twilio.                             | [View project](https://github.com/Maazk111/OpenHands)                            |
 
 ---
 
-## 🤝 Let’s Connect
+## 🎓 Education & Certifications
 
-I’m always open to connecting with professionals, teams, and organizations who share a passion for **DevOps, Cloud Engineering, and Automation**.  
-Whether it’s collaboration, mentorship, or exciting project opportunities — feel free to reach out!
+**BS Software Engineering — DHA Suffa University** (2022–2026)  
+**CGPA:** 3.81/4.00 · **Academic honors:** Vice Chancellor's Honor List (3×), Dean's Honor List (4×)
 
+**Final Year Project — AutoTestGen+:** Team Lead & Agentic AI Architect; worked on an AI-supported SDLC automation platform using LLMs, RAG, and LangGraph-based workflows.
 
+## 🏅 Certifications
 
+- [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/af863e55-75a4-4612-9175-92069042255b/public_url)
+- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/b60aaf12-f200-4dcf-a8e4-2405e1e1d309/public_url)
+- [AWS Certified AI Practitioner (AIF-C01)](https://www.credly.com/badges/67c9bedd-4a5d-4ed0-8a77-9c98d0c0aef9/public_url)
 
+---
+
+## 🤝 Let's Connect
+
+Open to connecting about **DevOps, SRE, cloud infrastructure, and automation**.
 
 📧 **Email:** [maazkhan97111@gmail.com](mailto:maazkhan97111@gmail.com)  
 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muhammad-maaz-khan-bb65872b9/)  
 🐙 **GitHub:** [GitHub](https://github.com/Maazk111)
-
-
