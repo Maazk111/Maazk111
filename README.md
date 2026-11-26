@@ -2,7 +2,7 @@
 
 ### 🚀 Site Reliability Engineer | DevOps & Cloud Engineering | AWS Certified
 
-I'm an **Associate Site Reliability Engineer at iVolve Technologies**, working across cloud infrastructure, Linux, networking, monitoring, incident troubleshooting, and backup/disaster recovery. I enjoy using **AWS, Terraform, Ansible, Jenkins, Docker, and Kubernetes** to make infrastructure and application delivery more reliable and repeatable.
+I'm a **DevOps and Cloud Engineer**, working across cloud infrastructure, Linux, networking, monitoring, incident troubleshooting, and backup/disaster recovery. I enjoy using **AWS, Terraform, Ansible, Jenkins, Docker, and Kubernetes** to make infrastructure and application delivery more reliable and repeatable.
 
 I hold a **BS in Software Engineering from DHA Suffa University (CGPA: 3.81/4.00)** and three AWS certifications. My background in **full-stack development** and my final-year project, **AutoTestGen+**, also help me approach infrastructure challenges with an application-development perspective.
 
@@ -11,7 +11,7 @@ I hold a **BS in Software Engineering from DHA Suffa University (CGPA: 3.81/4.00
 ## 💼 Professional Experience
 
 **Associate Site Reliability Engineer — iVolve Technologies**  
-_July 2026 – Present | Karachi, Pakistan_
+_July 2026 – _November 2026 | Karachi, Pakistan_
 
 - Provision and support **QCloud infrastructure**: virtual machines, networking, routing, NAT, firewalls, and pfSense.
 - Maintain **Zabbix dashboards** and investigate infrastructure health and availability issues.
